@@ -18,9 +18,9 @@ A console-based C project for gaming lounges featuring admin authentication, slo
 # How to Run
 On Windows:
 1. Compile
-Write in the terminal without "": "gcc main.c gameCafe.c -o AnyNameYouWant"
+Write in the terminal: "gcc main.c gameCafe.c -o AnyNameYouWant"
 3. Run
-Write in the terminal without "": "./TheNameYouWroteInThePreviousCommand"
+Write in the terminal: "./TheNameYouWroteInThePreviousCommand"
 
 or directly run the GameCafeProjectExecutableFile.exe.
 Note: Keep all the files in the same folder including the .txt files.
