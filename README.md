@@ -27,6 +27,7 @@ For example, write the following commands in sequence:
 * ./gameCafeExecutable
 
 or directly run the GameCafeProjectExecutableFile.exe.
+
 Note: Keep all the files in the same folder including the .txt files.
 Sample admin username: 'admin', password: 'password'.
 
