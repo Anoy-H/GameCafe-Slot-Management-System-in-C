@@ -11,9 +11,9 @@ A console-based C project for gaming lounges featuring admin authentication, slo
 * Persistent storage using text files
 
 # Project Structure
-* main.c - Entry point and menu handling
-* gameCafe.h - Function declarations and structures
-* gameCafe.c - Core logic and functionality
+* main.c - Entry point and menu handler
+* gameCafe.h - Contains function declarations and structures
+* gameCafe.c - Contains core logic and functionality
 
 # How to Run
 On Windows:
