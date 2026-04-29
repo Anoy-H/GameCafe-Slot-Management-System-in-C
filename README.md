@@ -22,9 +22,9 @@ Write in the terminal: "gcc main.c gameCafe.c -o AnyNameYouWant"
 3. Run
 Write in the terminal: "./TheNameYouWroteInThePreviousCommand"
 
-For example:
-gcc main.c gameCafe.c -o gameCafeExecutable
-./gameCafeExecutable
+For example, write the following commands in sequence:
+* gcc main.c gameCafe.c -o gameCafeExecutable
+* ./gameCafeExecutable
 
 or directly run the GameCafeProjectExecutableFile.exe.
 Note: Keep all the files in the same folder including the .txt files.
