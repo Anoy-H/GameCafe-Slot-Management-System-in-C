@@ -1,0 +1,24 @@
+Action| GTA V
+Action| Red Dead Redemption 2
+Action| Cyberpunk 2077
+Action| Assassin's Creed Valhalla
+Action| Far Cry 6
+Action| Watch Dogs: Legion
+Action| Sekiro: Shadows Die Twice
+Action| Devil May Cry 5
+Racing| Forza Horizon 5
+Racing| Need for Speed Heat
+Racing| F1 24
+Racing| Dirt Rally 2.0
+Racing| Assetto Corsa
+Racing| The Crew Motorfest
+Sports| FIFA 26
+Sports| Cricket 26
+Sports| Tennis World Tour 2
+Battle Royale| PUBG: Battlegrounds
+Battle Royale| Fortnite
+Battle Royale| Apex Legends
+Battle Royale| Call of Duty: Warzone
+Horror| Resident Evil Village
+Horror| Outlast 2
+Simulation| The Nautical Horizon
