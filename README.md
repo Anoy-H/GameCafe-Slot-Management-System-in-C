@@ -20,7 +20,7 @@ On Windows:
 1. Compile
 Write in the terminal: "gcc main.c gameCafe.c -o AnyNameYouWant"
 3. Run
-Write in the terminal: "./TheNameYouWroteInThePreviousCommand" or run the TheNameYouWroteInThePreviousCommand.exe file
+Write in the terminal: "./TheNameYouWroteInThePreviousCommand" or run the 'TheNameYouWroteInThePreviousCommand.exe' file
 
 For example, write the following commands in sequence:
 * gcc main.c gameCafe.c -o gameCafeExecutable
