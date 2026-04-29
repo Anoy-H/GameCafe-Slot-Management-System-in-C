@@ -28,6 +28,7 @@ For example, write the following commands in sequence:
 
 or directly run the GameCafeProjectExecutableFile.exe.
 Note: Keep all the files in the same folder including the .txt files.
+Sample admin username: 'admin', password: 'password'.
 
 # Notes
 * Data is stored in .txt files (not encrypted).
